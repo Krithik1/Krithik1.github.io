@@ -1,0 +1,19 @@
+#project {
+    margin-left: 40%;
+    margin-top: 2%;
+    margin-right: 40%;
+    width: '30%';
+}
+
+#projects {
+    text-align: center;
+}
+
+a {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ef6c01;
+}
