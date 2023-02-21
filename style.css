@@ -1,0 +1,21 @@
+.navbar {
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+    overflow: hidden; 
+    z-index: 2;
+}
+
+#about {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.btn {
+    outline-color: black;
+}
+
+.experiences {
+    padding-top: 30px;
+    display: flex;
+}
