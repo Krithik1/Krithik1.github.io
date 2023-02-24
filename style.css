@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 .navbar {
     position: fixed; /* Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
@@ -6,7 +10,14 @@
     z-index: 2;
 }
 
-#about {
+#experience, #skills {
+    background-color: #f2f2f2;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+  
+
+#about, #projects {
     padding-top: 50px;
     padding-bottom: 50px;
 }
@@ -15,7 +26,7 @@
     outline-color: black;
 }
 
-.experiences {
+.experiences, .projects {
     padding-top: 30px;
     display: flex;
 }
