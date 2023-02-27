@@ -30,3 +30,7 @@ html {
     padding-top: 30px;
     display: flex;
 }
+
+.date {
+    padding-bottom: 0.7rem;
+}
